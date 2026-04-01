@@ -55,3 +55,6 @@ To create the first national open GTFS feed for Honduras so it can be used by Go
 
 ### How to contribute
 Feel free to add more routes, improve schedules, or fix stop locations. Pull requests are welcome!
+
+**This is currently the first known open source GTFS feed for public transportation in Honduras (as of April 2026).
+No official national GTFS exists yet, due to transporation mainly being on random buses in big cities.**
