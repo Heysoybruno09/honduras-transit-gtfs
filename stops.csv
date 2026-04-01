@@ -1,0 +1,16 @@
+stop_id,stop_name,stop_lat,stop_lon
+LCE_F,"La Ceiba Ferry Terminal (Cabotage Dock)",15.7667,-86.7833
+RTB_F,"Roatán Dixon Cove Ferry Terminal",16.3333,-86.4833
+UII_F,"Utila Ferry Dock",16.0967,-86.8933
+GJA_F,"Guanaja Ferry Terminal",16.4667,-85.8833
+TGU_C,"Colonia Tiloarque, Blvd Fuerzas Armadas",14.0753,-87.2183
+TGU_H,"Boulevard Centroamérica",14.0850,-87.1822
+SPS_G,"Gran Central Metropolitana",15.4633,-88.0161
+LCE_S,"Colonia Sutrafsco, Blvd La ENEE",15.7533,-86.7936
+LCE_J,"Estación de Autobuses San José",15.7589,-86.7915
+TELA,"Tela Bus Station",15.7833,-87.4500
+SIG,"Siguatepeque Bus Station",14.6000,-87.8333
+OLA,"Olanchito Bus Station",15.4833,-86.5833
+PRO,"Progreso Bus Station",15.4000,-87.8000
+MGA_T,"Managua TICA BUS",12.1364,-86.2514
+GUA_T,"Guatemala City TICA BUS",14.6349,-90.5069

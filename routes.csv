@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+r_lce_rtb,ferry,LCE-RTB,"La Ceiba - Roatán",4
+r_lce_uii,ferry,LCE-UII,"La Ceiba - Utila",4
+r_uii_rtb,ferry,UII-RTB,"Utila - Roatán",4
+r_tgu_sps_c,cristina,TGU-SPS,"Tegucigalpa - San Pedro Sula",3
+r_sps_lce_c,cristina,SPS-LCE,"San Pedro Sula - La Ceiba",3
+r_tgu_lce_c,cristina,TGU-LCE,"Tegucigalpa - La Ceiba",3
+r_sps_lce_m,mirna,SPS-LCE,"San Pedro Sula - La Ceiba",3
+r_sps_tela_m,mirna,SPS-TELA,"San Pedro Sula - Tela",3
+r_tgu_sps_h,hedman,TGU-SPS,"Tegucigalpa - San Pedro Sula",3
+r_mga_tgu_t,tica,MGA-TGU,"Managua - Tegucigalpa",3
+r_mga_sps_t,tica,MGA-SPS,"Managua - San Pedro Sula",3
+r_tgu_gua_t,tica,TGU-GUA,"Tegucigalpa - Guatemala City",3

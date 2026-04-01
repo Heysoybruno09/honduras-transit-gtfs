@@ -1,0 +1,18 @@
+route_id,service_id,trip_id,trip_headsign
+r_lce_rtb,daily,t_lce_rtb_am,Roatán
+r_lce_rtb,daily,t_lce_rtb_pm,Roatán
+r_lce_rtb,daily,t_rtb_lce_am,La Ceiba
+r_lce_rtb,daily,t_rtb_lce_pm,La Ceiba
+r_lce_uii,daily,t_lce_uii_am,Utila
+r_lce_uii,daily,t_uii_lce_am,La Ceiba
+r_uii_rtb,daily,t_uii_rtb,Roatán
+r_lce_rtb,weekend,t_wknd_lce_rtb_gja,Guanaja
+r_sps_lce_m,daily,t_m_sps_lce_1,La Ceiba
+r_sps_tela_m,daily,t_m_sps_tela_1,Tela
+r_tgu_sps_h,daily,t_h_tgu_sps_1,San Pedro Sula
+r_mga_tgu_t,daily,t_t_mga_tgu_1,Tegucigalpa
+r_mga_sps_t,daily,t_t_mga_sps_1,San Pedro Sula
+r_tgu_gua_t,daily,t_t_tgu_gua_1,Guatemala City
+r_sps_lce_c,daily,t_c_sps_lce_1,La Ceiba
+r_tgu_sps_c,daily,t_c_tgu_sps_1,San Pedro Sula
+r_tgu_lce_c,daily,t_c_tgu_lce_1,La Ceiba
